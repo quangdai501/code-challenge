@@ -1,4 +1,4 @@
-1.  **computational inefficiencies**
+1.  **Computational inefficiencies**
 
 - **getPriority** inside component
 
